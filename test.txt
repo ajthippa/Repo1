@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FEAB-DF4D
+
+ Directory of C:\Users\ajayk\OneDrive\Desktop\gitproject
+
+08-01-2024  19:44    <DIR>          .
+08-01-2024  19:43    <DIR>          ..
+08-01-2024  19:44                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  48,029,257,728 bytes free
